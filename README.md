@@ -1,9 +1,3 @@
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=hqbzeri161r2cx5k6hzj6957d&redirect=true" target="blank">
-  <img align="right"
-    src="https://spotify-github-profile.vercel.app/api/view?uid=hqbzeri161r2cx5k6hzj6957d&cover_image=true&theme=default"
-    alt="spotify" />
-</a>
-
 ### Hello There
 I'm Elanum, a streamer, student and junior full stack web developer from Germany
 
