@@ -1,7 +1,7 @@
 ### Hello There
 I'm Elanum, a streamer, student and junior full stack web developer from Germany
 
-![Elanum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elanum&show_icons=true&theme=dark&count_private=true)
+[![Elanum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elanum&show_icons=true&theme=dark&count_private=true)](https://github.com/Elanum?tab=repositories)
 
 ### System & Browser
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04-dd4814?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/20.04/)
@@ -13,19 +13,19 @@ I'm Elanum, a streamer, student and junior full stack web developer from Germany
 [![Firefox](https://img.shields.io/badge/Firefox-e66000?style=flat-square&logo=firefox&logoColor=white)](https://www.mozilla.org/de/firefox/new/)
 
 ### Stack & Skill
-![Git](https://img.shields.io/badge/Git-f14e32?style=flat-square&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-cb3837?style=flat-square&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-007aa2?style=flat-square&logo=yarn&logoColor=white)
+[![Git](https://img.shields.io/badge/Git-f14e32?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![NPM](https://img.shields.io/badge/NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Yarn](https://img.shields.io/badge/Yarn-007aa2?style=flat-square&logo=yarn&logoColor=white)](https://yarnpkg.com/)
 
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SCSS-CD6799?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![SASS](https://img.shields.io/badge/SCSS-CD6799?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-215732?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-00d8ff?style=flat-square&logo=react&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![NodeJS](https://img.shields.io/badge/Node.js-215732?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-00d8ff?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elanum&theme=dark&layout=compact)](https://github.com/Elanum?tab=repositories)
 
