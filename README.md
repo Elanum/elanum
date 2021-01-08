@@ -33,6 +33,8 @@ I'm Elanum, a streamer, student and junior full stack web developer from Germany
 ![NodeJS](https://img.shields.io/badge/Node.js-215732?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-00d8ff?style=flat-square&logo=react&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elanum&theme=dark&layout=compact)](https://github.com/Elanum?tab=repositories)
+
 ### Social Media
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white)](https://github.com/Elanum)
 [![StackOverflow](https://img.shields.io/badge/Stack%20Overflow-f48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14838944/elanum)
