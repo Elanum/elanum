@@ -3,7 +3,6 @@ I'm Elanum, a streamer, student and junior full stack web developer from Germany
 
 ### Environment
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2020.04-dd4814?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/20.04/)
-[![Windows](https://img.shields.io/badge/Windows%2010%20Pro-0078d7?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/de-de/p/windows-10-pro/df77x4d43rkt?activetab=pivot%3aoverviewtab)
 [![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Chrome](https://img.shields.io/badge/Chrome-DB4437?style=flat-square&logo=google-chrome&logoColor=white)](https://www.google.com/intl/de_de/chrome/)
 [![Firefox](https://img.shields.io/badge/Firefox-e66000?style=flat-square&logo=firefox&logoColor=white)](https://www.mozilla.org/de/firefox/new/)
