@@ -1,8 +1,16 @@
 {
-  "extends": ["next", "next/core-web-vitals", "airbnb-typescript"],
+  "extends": [
+    "next",
+    "next/core-web-vitals",
+    "airbnb-typescript",
+    "plugin:prettier/recommended"
+  ],
   "parser": "@typescript-eslint/parser",
   "ignorePatterns": ["*.js"],
   "parserOptions": {
     "project": "./tsconfig.json"
+  },
+  "rules": {
+    "prettier/prettier": ["error", {}, { "usePrettierrc": true }]
   }
 }
