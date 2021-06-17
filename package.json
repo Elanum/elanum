@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prepare": "husky install"
+    "lint:husky": "eslint --ext jsx,ts,tsx --fix",
+    "prepare": "husky install",
+    "type-check": "tsc --pretty --noEmit"
   },
   "dependencies": {
     "next": "11.0.0",
@@ -31,6 +33,7 @@
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
     "postcss": "^8.3.5",
     "prettier": "^2.3.1",
     "tailwindcss": "^2.1.4",

@@ -1,12 +1,12 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-echo '🏗️  Styling your project before committing'
+echo '🏗️  Styling and type-checking your project before committing'
 
-yarn lint --fix ||
+npx --no-install lint-staged ||
 (
-  echo '❌ Hey! I think you ignoring my rules!
-   ESLint Check Failed. Make the required changes listed above, add changes and try to commit again.'
+  echo '❌ Hey! Something went wrong!
+   Make the required changes listed above, add changes and try to commit again.'
   false;
 )
 
